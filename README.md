@@ -23,7 +23,7 @@ cd platarium-wallet-cli
 npm install
 ```
 
-## 🚀 Запуск
+## 🚀 Launch
 
 ```bash
 node index.js
