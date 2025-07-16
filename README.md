@@ -18,8 +18,8 @@ A command-line wallet for interacting with the **Platarium Network**. This CLI a
 
 
 ```bash
-git clone https://github.com/your-username/platarium-wallet-cli.git
-cd platarium-wallet-cli
+git clone https://github.com/Platarium-com/PlatariumWalletCLI.git
+cd PlatariumWalletCLI
 npm install
 ```
 
